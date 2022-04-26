@@ -9,5 +9,5 @@ py37.yaml
 python setup.py build development
 
 
-Train:
+3 Train:
 python start.py
